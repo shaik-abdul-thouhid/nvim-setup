@@ -98,7 +98,7 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak
 #### Clone the repository
 
 ```shell
-git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+git clone --depth 1 https://github.com/shaik-abdul-thouhid/nvim-setup ~/.config/nvim
 nvim
 ```
 
@@ -114,7 +114,7 @@ Rename-Item -Path $env:LOCALAPPDATA\nvim-data -NewName $env:LOCALAPPDATA\nvim-da
 #### Clone the repository
 
 ```pwsh
-git clone --depth 1 https://github.com/AstroNvim/AstroNvim $env:LOCALAPPDATA\nvim
+git clone --depth 1 https://github.com/shaik-abdul-thouhid/nvim-setup $env:LOCALAPPDATA\nvim
 nvim
 ```
 
